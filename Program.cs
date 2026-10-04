@@ -63,9 +63,10 @@ namespace ООПзадание1
             }
             public void Accelerate(int value)
             {
-                if (value < 0)
+            Console.WriteLine($"The car accelerated by {value} started speed is {Speed}");
+            if (value < 0)
                     throw new IndexOutOfRangeException("Accelerate can`t be less then 0.");
-                Speed += value;
+            Speed += value;
             }
             public void ShowInfo()
             {
@@ -73,6 +74,7 @@ namespace ООПзадание1
                 Console.WriteLine($"Model: {Model}");
                 Console.WriteLine($"Year: {Year}");
                 Console.WriteLine($"Speed: {Speed} km/h");
+            Console.WriteLine();
             }
 
         }
