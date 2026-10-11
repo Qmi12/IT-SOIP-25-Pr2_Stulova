@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\введение в программирование\ооп3\bin\Debug\ооп3.exe.config
+C:\Users\Acer\Desktop\введение в программирование\ооп3\bin\Debug\ооп3.exe
+C:\Users\Acer\Desktop\введение в программирование\ооп3\bin\Debug\ооп3.pdb
+C:\Users\Acer\Desktop\введение в программирование\ооп3\obj\Debug\ооп3.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\введение в программирование\ооп3\obj\Debug\ооп3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\введение в программирование\ооп3\obj\Debug\ооп3.exe
+C:\Users\Acer\Desktop\введение в программирование\ооп3\obj\Debug\ооп3.pdb
