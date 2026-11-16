@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\bin\Debug\ООПзадание1.exe.config
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\bin\Debug\ООПзадание1.exe
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\bin\Debug\ООПзадание1.pdb
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\obj\Debug\ООПзадание1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\obj\Debug\ООПзадание1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\obj\Debug\ООПзадание1.exe
+C:\Users\Acer\Desktop\введение в программирование\ООПзадание1\obj\Debug\ООПзадание1.pdb
