@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\obj\Debug\пара6-7-8.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\obj\Debug\пара6-7-8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\bin\Debug\пара6-7-8.exe.config
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\bin\Debug\пара6-7-8.exe
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\bin\Debug\пара6-7-8.pdb
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\obj\Debug\пара6-7-8.exe
+C:\Users\Acer\Desktop\введение в программирование\пара6-7-8\obj\Debug\пара6-7-8.pdb
